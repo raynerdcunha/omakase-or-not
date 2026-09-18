@@ -1,0 +1,24 @@
+# Machine-specific / device info (SDK path, run targets, device serials, IPs)
+/.idea/
+local.properties
+*.iml
+
+# Build output and caches
+.gradle/
+.kotlin/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Keys and secrets
+*.jks
+*.keystore
+*.pem
+.env
+google-services.json
+
+# OS junk
+.DS_Store
+Thumbs.db
