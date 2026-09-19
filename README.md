@@ -49,6 +49,14 @@ The outcome can vary between interactions, so these screenshots show examples fr
 
 ---
 
+## Demo
+
+<p align="center">
+  <img src="images/recording.mp4" width="300">
+</p>)
+
+---
+
 ## 🚀 Getting Started
 
 ### Clone the repository
